@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Data & Software Engineer)`**
 
-Hello 👋, I'm [Yash Shah]! I'm currently navigating the realms of software and data engineering as an aspiring engineer at Rutgers University. Passionate about leveraging technology to solve real-world problems, I'm immersed in learning and applying cutting-edge technologies in both software development and data analytics.
+Hello 👋, I'm Yash Shah! I'm currently navigating the realms of software and data engineering as an aspiring engineer at Rutgers University. Passionate about leveraging technology to solve real-world problems, I'm immersed in learning and applying cutting-edge technologies in both software development and data analytics.
 
 🔭 Currently Working On: I'm engaged in various projects that span across full-stack development, data analysis, and machine learning, focusing on creating efficient, scalable solutions. My academic journey at Rutgers is filled with challenging yet exciting projects that have allowed me to dive deep into coding, system design, and data processing.
 
