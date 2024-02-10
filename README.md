@@ -14,9 +14,9 @@ Hello 👋, I'm Yash Shah! I'm currently navigating the realms of software and d
 
 💬 Ask Me About: Feel free to reach out if you're interested in discussing software development trends, data analysis techniques, or if you need a collaborator for your next project. I'm also open to sharing my experience and learning from the community.
 
-📫 How to Reach Me: You can connect with me here on GitHub or reach out through [LinkedIn/Email/Other preferred contact method].
+📫 How to Reach Me: You can connect with me here on GitHub or reach out through my email yashshah@outlook.com.
 
-🌟 Fun Fact: When I'm not coding or crunching numbers, I love to [insert hobby - could be exploring new tech, reading, hiking, etc.].
+🌟 Fun Fact: When I'm not coding or crunching numbers, I love to ice skate. 
 
 Thank you for visiting my GitHub page! Let's connect and explore the possibilities of technology together.
    <p align="left">
