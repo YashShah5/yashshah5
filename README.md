@@ -52,5 +52,5 @@ Thank you for visiting my GitHub page! Let's connect and explore the possibiliti
 #
 
 <details>
- <summary><h3>👨‍💻 yash's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Yash's Coding Journey</h3></summary>
    
